@@ -17,7 +17,7 @@ asdf
 
 ## Stat & Skills 
 
-![LHG's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoka1005&count_private=true&hide=stars,contribs&show_icons=true&theme=vue)
+![LHG's GitHub stats](https://vercel-private-repo-qffh-hoka1005.vercel.app/api?username=Hoka1005&count_private=true&hide=stars,contribs&show_icons=true&theme=vue)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoka1005&layout=compact&hide=C++,QMake,Java) -->
 
