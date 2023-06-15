@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!🍪&fontAlign=55&fontAlignY=35&fontSize=70&animation=twinkling)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!🍪&fontAlign=53&fontAlignY=35&fontSize=70&animation=twinkling)  
 <br>
 
 ## Introduce My Self. 
@@ -17,7 +17,7 @@ asdf
 
 ## Stat & Skills 
 
-![LHG's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoka1005&count_private=true&show_icons=true&theme=vue)
+![LHG's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoka1005&count_private=true&hide=stars,contribs&show_icons=true&theme=vue)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoka1005&layout=compact&hide=C++,QMake,Java) -->
 
